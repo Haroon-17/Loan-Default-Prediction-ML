@@ -78,5 +78,5 @@ This project demonstrates an end-to-end machine learning workflow for financial 
  Mohammad Haroon
  Email:haroon01723@gmail.com
  Linkedin:https://www.linkedin.com/in/haroon-md-330348282
- GitHub:
+ GitHub:https://github.com/Haroon-17
  
