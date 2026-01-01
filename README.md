@@ -46,6 +46,6 @@ This project demonstrates an end-to-end machine learning workflow for financial 
 
 ## 📬 Author
  Mohammad Haroon
- haroon01723@gmail.com
- https://www.linkedin.com/in/haroon-md-330348282
+ Email:haroon01723@gmail.com
+ Linkedin:https://www.linkedin.com/in/haroon-md-330348282
  
