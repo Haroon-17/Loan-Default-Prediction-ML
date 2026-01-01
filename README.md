@@ -45,5 +45,7 @@ Random Forest performed best by capturing non-linear relationships in the data.
 This project demonstrates an end-to-end machine learning workflow for financial risk prediction.
 
 ## 📬 Author
-Haroon
-Aspiring ML Engineer
+ Mohammad Haroon
+ haroon01723@gmail.com
+ https://www.linkedin.com/in/haroon-md-330348282
+ 
