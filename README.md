@@ -47,6 +47,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ## 📈 Results
 Random Forest performed best by capturing non-linear relationships in the data.
 
+
 ▶️ How to Run the Model
 Option 1: Run on Google Colab (Recommended)
 Open Google Colab: https://colab.research.google.com
@@ -60,8 +61,8 @@ Option 2: Run Locally on Your System
      -Clone or download this repository
      -Open a terminal in the project folder
      -Start Jupyter Notebook:
- Open loan_default_prediction.ipynb
- Run all cells sequentially
+ - Open loan_default_prediction.ipynb
+ - Run all cells sequentially
  The model will train and display prediction results
 
 ## 🛠 Tools & Technologies
