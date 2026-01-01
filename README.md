@@ -76,7 +76,7 @@ Option 2: Run Locally on Your System
 This project demonstrates an end-to-end machine learning workflow for financial risk prediction.
 
 ## 📬 Author
- Mohammad Haroon
+📞Contact 👨‍💻 Developer: Mohammad Haroon
  Email:haroon01723@gmail.com
  Linkedin:https://www.linkedin.com/in/haroon-md-330348282
  GitHub:https://github.com/Haroon-17
